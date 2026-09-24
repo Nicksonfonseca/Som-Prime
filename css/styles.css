@@ -3303,10 +3303,9 @@ fieldset:disabled .btn {
 }
 
 .btn-primary {
-  --bs-btn-color: #05074b;
-  --bs-btn-bg: #6c7393;
-  --bs-btn-border-color: #c5e1f1;
-  --bs-btn-hover-color: #05074b;
+  --bs-btn-color: #ededed;
+  --bs-btn-bg: #32334d;
+  --bs-btn-border-color: #ffffff;
   --bs-btn-hover-bg: #a4b5c7;
   --bs-btn-hover-border-color: #1329a5;
   --bs-btn-focus-shadow-rgb: 196, 142, 73;
@@ -12668,7 +12667,7 @@ p {
 
 .bg-faded {
   background-color: #dee8f1;
-  color:#05074b
+  color: #05074b
 }
 
 .btn-xl {
