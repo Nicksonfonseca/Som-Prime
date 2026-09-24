@@ -12667,7 +12667,7 @@ p {
 
 .bg-faded {
   background-color: #dee8f1;
-  color: #05074b
+  color: #1e1960;
 }
 
 .btn-xl {
@@ -12828,7 +12828,7 @@ a.nav-link.text-uppercase:hover {
 
 .list-hours .list-hours-item.today {
   font-weight: bold;
-  color: #3f9bfd;
+  color: #0e1720;
 }
 
 @media (min-width: 992px) {
